@@ -7,23 +7,10 @@
 🚨 I’m looking to collaborate on:<br>    → Projects that involve design, frontend web development, or anything fun & unique!!<br>
 🧧 I’m currently learning:<br>    → JavaScript, PHP, Laravel, React, and a little bit of UI/UX design
 
-![I'm Learning](https://img.shields.io/badge/🌱%20Learning-JavaScript%20&%20Laravel-d63384)
-![Open to Collaborate](https://img.shields.io/badge/🤝%20Open%20To-Collaboration-ff69b4)
-
-<img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="200"/>
-
-
 
 ## 🌸 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dddessi.sj)
 [![email](https://img.shields.io/badge/Email-%23E4405F?logo=gmail&logoColor=white)](mailto:dessipuspita46832@gmail.com)
-
----
-
-💖 Let's be friends & build something cute together!  
-✨ DM me on [Instagram](https://instagram.com/dddessi.sj) or send an [email](mailto:dessipuspita46832@gmail.com)!
-
-
 
 ## 🩷 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E4405F.svg?style=flat&logo=html5&logoColor=white) 
@@ -41,6 +28,18 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=STRZCY&theme=pink-yoru&radius=16&hide_title=true&area=false" height="200" alt="activity-graph graph" />
 
 ![Visitors](https://komarev.com/ghpvc/?username=strzcy&style=flat-square&color=d63384&label=Pengunjung)
+
+
+![Goal](https://img.shields.io/badge/📚%202024%20Goal-Build%203%20Cute%20Projects-d63384)
+
+## 🎧 Currently Vibing To:
+[![Spotify](https://img.shields.io/badge/Song-Love%20Dive-%23d63384?logo=spotify&logoColor=white)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj)
+
+![Vibes](https://img.shields.io/badge/Mood-Sweet%20&%20Creative-d63384)
+![Persona](https://img.shields.io/badge/Aesthetic-Pink%20Dev%20Girl-ffb6c1)
+
+
+
 
 
 </div>
