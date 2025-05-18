@@ -30,6 +30,9 @@
 ![Visitors](https://komarev.com/ghpvc/?username=strzcy&style=flat-square&color=d63384&label=Pengunjung)
 
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Ozan1123/count.svg?"  />
+</div>
 
 
 </div>
