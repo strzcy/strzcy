@@ -19,7 +19,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23E4405F.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 
 ## 🌺 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=strzcy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=strzcy&layout=compact&hide_border=false&theme=default&bg_color=00000000&title_color=d63384&text_color=d63384)
 
 ## 💞 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=strzcy&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
