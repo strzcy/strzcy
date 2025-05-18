@@ -31,7 +31,7 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Ozan1123/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/strzcy/count.svg?"  />
 </div>
 
 
