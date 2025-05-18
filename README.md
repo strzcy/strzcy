@@ -26,7 +26,6 @@
 
 
 ## 💞 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=strzcy&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
-
+![](https://github-profile-trophy.vercel.app/?username=strzcy&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
