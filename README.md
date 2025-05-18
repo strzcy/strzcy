@@ -4,9 +4,9 @@
 🚨 I’m looking to collaborate on:<br>    → Projects that involve design, frontend web development, or anything fun & unique!!<br>
 🧧 I’m currently learning:<br>    → HTML, CSS, JavaScript, PHP, Laravel, , and a little bit of UI/UX design
 
-
 ## 🌸 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dddessi.sj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dessipuspita46832@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dddessi.sj)
+[![email](https://img.shields.io/badge/Email-%23E4405F?logo=gmail&logoColor=white)](mailto:dessipuspita46832@gmail.com)
 
 ## 🩷 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E4405F.svg?style=flat&logo=html5&logoColor=white) 
