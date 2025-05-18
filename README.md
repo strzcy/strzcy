@@ -14,13 +14,12 @@
 ## 🩷 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E4405F.svg?style=flat&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%23E4405F.svg?style=flat&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23E4405F.svg?style=flat&logo=javascript&logoColor=%25519203) 
 ![PHP](https://img.shields.io/badge/php-%23E4405F.svg?style=flat&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/laravel-%23E4405F.svg?style=flat&logo=laravel&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23E4405F.svg?style=flat&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%23E4405F.svg?style=flat&logo=Canva&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%23E4405F.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/javascript-%23E4405F.svg?style=flat&logo=javascript&logoColor=%25519203) 
+![Canva](https://img.shields.io/badge/Canva-%23E4405F.svg?style=flat&logo=Canva&logoColor=white) 
 
 ## 🌺 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=strzcy&layout=compact&hide_border=false&theme=default&bg_color=00000000&title_color=d63384&text_color=d63384)
