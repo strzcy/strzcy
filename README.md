@@ -25,7 +25,9 @@
 
 ## 🌺 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=strzcy&layout=compact&hide_border=false&theme=default&bg_color=00000000&title_color=d63384&text_color=d63384) <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=STRZCY&theme=pink-yoru&radius=16&hide_title=true&area=false" height="200" alt="activity-graph graph" />
+
+![Visitors](https://komarev.com/ghpvc/?username=strzcy&style=flat-square&color=d63384&label=Pengunjung)
+
 
 </div>
 
