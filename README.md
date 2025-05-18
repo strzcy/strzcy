@@ -37,6 +37,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=strzcy&theme=rose_pine&border_radius=6.5&background=EBEDEF00&ring=d63384&fire=d63384&currStreakLabel=d63384)](https://git.io/streak-stats)
 
 
+🧩 [Check my GitHub Achievements](https://github.com/users/strzcy/achievements) <br>
+![Time](https://img.shields.io/badge/Waktu-Jam%20WIB%20⏰-d63384?style=flat-square)
+<br> ![Skyline](link-ke-gambar-skyline)
 
 
 
