@@ -30,16 +30,6 @@
 ![Visitors](https://komarev.com/ghpvc/?username=strzcy&style=flat-square&color=d63384&label=Pengunjung)
 
 
-![Goal](https://img.shields.io/badge/📚%202024%20Goal-Build%203%20Cute%20Projects-d63384)
-
-## 🎧 Currently Vibing To:
-[![Spotify](https://img.shields.io/badge/Song-Love%20Dive-%23d63384?logo=spotify&logoColor=white)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj)
-
-![Vibes](https://img.shields.io/badge/Mood-Sweet%20&%20Creative-d63384)
-![Persona](https://img.shields.io/badge/Aesthetic-Pink%20Dev%20Girl-ffb6c1)
-
-
-
 
 
 </div>
