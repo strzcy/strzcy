@@ -29,12 +29,6 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=strzcy&style=flat-square&color=d63384&label=Pengunjung)
 
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/strzcy/count.svg?"  />
-</div>
-
-
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
