@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
   # 🌷 About Me 🌷
 ❤️ Hi hi!! I'm Dessi Puspita Sari<br>
@@ -27,8 +27,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=STRZCY&theme=pink-yoru&radius=16&hide_title=true&area=false" height="200" alt="activity-graph graph" />
 
-![Visitors](https://komarev.com/ghpvc/?username=strzcy&style=flat-square&color=d63384&label=Pengunjung)
-
+  ![Visitors](https://komarev.com/ghpvc/?username=strzcy&style=flat-square&color=d63384&label=Pengunjung)
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
