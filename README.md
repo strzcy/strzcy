@@ -1,5 +1,8 @@
 # 🌷 About Me 🌷
-Hi hi!! I'm Dessi Puspita Sari<br>💻 A student from SMK Plus Pelita Nusantara<br>Majoring in Software Engineering<br>👯 I’m looking to collaborate on:<br>    → Projects that involve design, frontend web development, or anything fun & unique!!<br>🌱 I’m currently learning:<br>    → HTML, CSS, JavaScript, PHP, Laravel, , and a little bit of UI/UX design
+❤️ Hi hi!! I'm Dessi Puspita Sari<br>
+📍 A student from SMK Plus Pelita Nusantara<br>Majoring in Software Engineering<br>
+🚨 I’m looking to collaborate on:<br>    → Projects that involve design, frontend web development, or anything fun & unique!!<br>
+🧧 I’m currently learning:<br>    → HTML, CSS, JavaScript, PHP, Laravel, , and a little bit of UI/UX design
 
 
 ## 🌸 Socials
