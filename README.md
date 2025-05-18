@@ -7,10 +7,22 @@
 🚨 I’m looking to collaborate on:<br>    → Projects that involve design, frontend web development, or anything fun & unique!!<br>
 🧧 I’m currently learning:<br>    → JavaScript, PHP, Laravel, React, and a little bit of UI/UX design
 
+![I'm Learning](https://img.shields.io/badge/🌱%20Learning-JavaScript%20&%20Laravel-d63384)
+![Open to Collaborate](https://img.shields.io/badge/🤝%20Open%20To-Collaboration-ff69b4)
+
+<img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="200"/>
+
+
 
 ## 🌸 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dddessi.sj)
 [![email](https://img.shields.io/badge/Email-%23E4405F?logo=gmail&logoColor=white)](mailto:dessipuspita46832@gmail.com)
+
+---
+
+💖 Let's be friends & build something cute together!  
+✨ DM me on [Instagram](https://instagram.com/dddessi.sj) or send an [email](mailto:dessipuspita46832@gmail.com)!
+
 
 
 ## 🩷 Tech Stack
