@@ -24,16 +24,19 @@
 ![Canva](https://img.shields.io/badge/canva-%23E4405F.svg?style=flat&logo=canva&logoColor=white)
 
 
-
-
-
 ## 🌺 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=strzcy&layout=compact&hide_border=false&theme=default&bg_color=00000000&title_color=d63384&text_color=d63384) <br>
 
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=STRZCY&theme=pink-yoru&radius=16&hide_title=true&area=false" height="200" alt="activity-graph graph" />
 
-  ![Visitors](https://komarev.com/ghpvc/?username=strzcy&style=flat-square&color=d63384&label=Pengunjung)
+<div> 
+   <img alt = "repositosy" src="https://img.shields.io/badge/repository-%F0%9F%8C%B8%2015-%23d63384?style=social"/> 
 </div>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"><br>
+<p align="center">૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
