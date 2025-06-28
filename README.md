@@ -30,7 +30,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=STRZCY&theme=pink-yoru&radius=16&hide_title=true&area=false" height="200" alt="activity-graph graph" />
 
 <div> 
-   <img alt = "repositosy" src="https://img.shields.io/badge/repository-%F0%9F%8C%B8%2015-%23d63384?style=social"/> 
+   <img alt = "repositosy" src="https://img.shields.io/badge/repository-%F0%9F%8C%B8%2018-%23d63384?style=social"/> 
 </div>
 </div>
 
