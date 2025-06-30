@@ -30,9 +30,9 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=strzcy&layout=compact&hide_border=false&theme=default&bg_color=00000000&title_color=d63384&text_color=d63384) <br>
 
 <div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=STRZCY&theme=pink-yoru&radius=16&hide_title=true&area=false" height="200" alt="activity-graph graph" /> <br>
-
-<img alt = "repositosy" src="https://img.shields.io/badge/repository-%F0%9F%8C%B8%2018-%23d63384?style=social"/> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=STRZCY&theme=pink-yoru&radius=16&hide_title=true&area=false" height="200" alt="activity-graph graph" /> <br>
+  <img alt = "repositosy" src="https://img.shields.io/badge/repository-%F0%9F%8C%B8%2018-%23d63384?style=social"/> 
+  
 </div>
 
 
