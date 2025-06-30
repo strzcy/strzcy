@@ -7,7 +7,7 @@
 🚨 I’m looking to collaborate on:<br>    
     → Projects that involve design, frontend web development, or anything fun & unique!! <br>
 🧧 I’m currently learning: <br>
-    → JavaScript, PHP, Python, MySql, Laravel, React, and a little bit of UI/UX design
+<t>    → JavaScript, PHP, Python, MySql, Laravel, React, and a little bit of UI/UX design
 
 
 ## 🌸 Socials
