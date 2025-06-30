@@ -45,8 +45,6 @@
 
 </div>
 
-                                    ```
-                                                        https://github.com/strzcy
-                                                                                                  ```
+                                           https://github.com/strzcy   
          
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
