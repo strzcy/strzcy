@@ -45,6 +45,10 @@
 
 </div>
 
-      https://github.com/strzcy   
+      https://github.com/strzcy  
+
+<div align="center">
+↑↑  share my github>.<  ↑↑
+</div>
          
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
