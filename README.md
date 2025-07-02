@@ -48,7 +48,7 @@
       https://github.com/strzcy  
 
 <div align="center">
-↑↑    share my github>.<    ↑↑
+↑↑  &ensp;&ensp;  share my github>.<  &ensp;&ensp;  ↑↑
 </div>
          
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
