@@ -1,3 +1,5 @@
+https://pixel-profile.vercel.app/api/github-stats?username=strzcy&theme=crt
+
 <div>
   
   #  🌷 About Me 
