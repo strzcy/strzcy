@@ -1,5 +1,5 @@
 ![](https://pixel-profile.vercel.app/api/github-stats?username=strzcy&theme=crt)
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=strzcy&theme=crt">
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=strzcy&theme=crt"/>
 
 <div>
   
