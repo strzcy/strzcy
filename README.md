@@ -1,7 +1,6 @@
 
 
 <div>
-<img width="1226" height="430" alt="github-stats" src="https://github.com/user-attachments/assets/29375f0c-a369-4c2f-9e6b-1b19c5ecd9d0" />
   
   #  🌷 About Me 🌷
 
