@@ -3,7 +3,6 @@
   #  🌷 About Me 🌷
 
   ❤️ Hi hi! I'm Dessi Puspita Sari im ENFP gurlll~<br>
-  
   📍 A student from SMK Plus Pelita Nusantara <br>
   🎀 Majoring in Software Engineering <br>
   💐 I like someone in xi sofeware engineering twooo <br>
