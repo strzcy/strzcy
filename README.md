@@ -3,7 +3,7 @@
   #  🌷 About Me 🌷
 
   ❤️ Hi hi! I'm Dessi Puspita Sari <br>
-  📍 A student from SMK Plus Pelita Nusantara <br>
+  📍 A student from SMK Plus Pelita Nusantara<br>
   🎀 Majoring in Software Engineering <br>
   💐 I like someone in xi sofeware engineering two mwh <br>
   🚨 I’m looking to collaborate on : <br>
