@@ -6,7 +6,7 @@
   📍 A student from SMK Plus Pelita Nusantara<br>
   🎀 Majoring in Software Engineering <br>
   💐 I like someone in xi sofeware engineering two<br>
-  🚨 I’m looking to collaborate on : <br>
+  🚨 I’m looking to collaborate on <br>
   &ensp;&ensp; → Projects that involve design, frontend web development, or anything fun & unique! <br>
   🧧 I’m currently learning : <br>
   &ensp;&ensp; → JavaScript, PHP, Python, MySql, Laravel, React and a little bit of UI/UX design 
