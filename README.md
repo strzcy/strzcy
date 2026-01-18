@@ -8,7 +8,6 @@
   🎀 Majoring in Software Engineering <br>
   💐 I like someone in xi sofeware engineering twooz<br>
   🚨 I’m looking to collaborate on <br>
-  
   &ensp;&ensp; → Projects that involve design, frontend web development, or anything fun,pinkue & unique! <br>
   🧧 I’m currently learning : <br>
   &ensp;&ensp; → JavaScript, PHP, Python, MySql, Laravel, React and a little bit of UI/UX design 
