@@ -45,6 +45,6 @@
       https://github.com/strzcy  
 
 <div align="center">
-↑↑  &ensp;&ensp;  share my github >.<  &ensp;&ensp;  ↑↑
+↑↑  &ensp;&ensp;  share my github ! >.<  &ensp;&ensp;  ↑↑
 </div>
          
