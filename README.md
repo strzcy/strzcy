@@ -25,7 +25,6 @@
   ![Figma](https://img.shields.io/badge/figma-%23E4405F.svg?style=flat&logo=figma&logoColor=white) 
   ![Canva](https://img.shields.io/badge/canva-%23E4405F.svg?style=flat&logo=canva&logoColor=white)
 
-
   ## 🌺 GitHub Stats
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=strzcy&layout=compact&hide_border=false&theme=default&bg_color=00000000&title_color=d63384&text_color=d63384) <br>
 
