@@ -15,7 +15,6 @@
   [![email](https://img.shields.io/badge/Email-%23E4405F?logo=gmail&logoColor=white)](mailto:dessipuspita46832@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dddessi.sj)
 
-
   ## 🩷 Tech Stack
   ![HTML5](https://img.shields.io/badge/html5-%23E4405F.svg?style=flat&logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%23E4405F?style=flat&logo=css&logoColor=white)
