@@ -9,7 +9,7 @@
   &ensp;&ensp; → Becoming someone's girlfriend in xiRplTwo, Projects that involve design, frontend web development, or anything fun,pinkue & unique! <br>
   🧧 I’m currently learning : <br>
   &ensp;&ensp; → JavaScript, PHP, Python, MySql, Laravel, React and a little bit of UI/UX design 
-  streak 3 ilankkkk
+
 
   ## 🌸 Socials
   [![email](https://img.shields.io/badge/Email-%23E4405F?logo=gmail&logoColor=white)](mailto:dessipuspita46832@gmail.com)
