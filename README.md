@@ -9,7 +9,6 @@
   🧧 I’m currently learning : <br>
   &ensp;&ensp; → JavaScript, PHP, Python, MySql, Laravel, React and a little bit of UI/UX design 
 
-
   ## 🌸 Socials
   [![email](https://img.shields.io/badge/Email-%23E4405F?logo=gmail&logoColor=white)](mailto:dessipuspita46832@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dddessi.sj)
