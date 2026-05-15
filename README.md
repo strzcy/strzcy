@@ -7,7 +7,7 @@
   🩰 I Really Love Baek Jiheon from Fromis_9 <br>
   🚨 I’m looking to collaborate on <br>
   &ensp;&ensp; → Projects that involve design, frontend web development, or anything fun, pinkue & unique! <br>
-  🧧 I’m currently learning : <br>
+  🧧 I’m currently learning : <br> 
   &ensp;&ensp; → JavaScript, PHP, Python, MySql, Laravel, React and a little bit of UI/UX design 
 
   ## 🌸 Socials
