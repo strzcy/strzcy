@@ -27,7 +27,7 @@
 
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=STRZCY&theme=pink-yoru&radius=16&hide_title=true&area=false" height="200" alt="activity-graph graph" /> <br>
-  <img alt = "repositosy" src="https://img.shields.io/badge/repository-%F0%9F%8C%B8%204 0-%23d63384?style=social"/> 
+  <img alt = "repositosy" src="https://img.shields.io/badge/repository-%F0%9F%8C%B8%202 9-%23d63384?style=social"/> 
   
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"><br>
